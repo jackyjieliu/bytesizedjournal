@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>沒有退路 - Nvidia</title>
+    <link href="/posts/back-against-the-wall-nvidia/"/>
+    <url>/posts/back-against-the-wall-nvidia/</url>
+    
+    <content type="html"><![CDATA[<p>你知道現在AI市場和GPU技術的龍頭Nvidia是如何起家的嗎？Nvidia的創業之路並非一帆風順，他們多次面對破產的威脅。讓我們一探Nvidia的早期發展歷程。</p><h2 id="目標遊戲市場"><a href="#目標遊戲市場" class="headerlink" title="目標遊戲市場"></a>目標遊戲市場</h2><p>1993年，黃仁勳、Chris Malachowsky 和 Curtis Priem 因工作相識並決定共同創業。當時，雖然個人電腦仍然昂貴，他們預見到未來電腦價格會降低，並且將普及化。他們看好遊戲市場的潛力，當時的電腦遊戲多為文字或簡單圖像。為了突破當時市場上主流的2D圖像晶片，他們著手開發一款能處理3D圖像的晶片。經由黃仁勳的前主管推薦，他們獲得了紅杉資本的投資，並成功創立了Nvidia。</p><h2 id="初次挑戰"><a href="#初次挑戰" class="headerlink" title="初次挑戰"></a>初次挑戰</h2><p>1995年，Nvidia推出首款晶片NV1。這款晶片有先進的技術，不僅支援3D圖像，還整合了遊戲手把接口速等多項功能，企圖提供全方位的解決方案。因為有這麼多的功能，讓他們的定價偏高，不過市場卻沒有這些需求，市場想要的是一個單純的3D晶片。因為沒有找到市場定會，NV1的銷售成績非常的慘。</p><h2 id="再次挑戰"><a href="#再次挑戰" class="headerlink" title="再次挑戰"></a>再次挑戰</h2><p>在NV1的挫敗後，Nvidia沒有氣餒，馬上投入到NV2的開發，並與SEGA合作下一代的遊戲機。但在NV2開發到一半時，微軟推出了DirectX，規範了在Windows上圖像處理的方法。因為微軟在個人電腦的市佔很高，市場需求勢必會轉向支援DirectX兼容晶片，但當時已經在開發中的NV2和DirectX不兼容。面對這一變化，Nvidia與SEGA最終決定解約，專注於開發與DirectX兼容的產品。雖然SEGA無義務繼續支付合約款項，但他們同意繼續支付，這為Nvidia提供了寶貴的資金，讓他們免於倒閉。</p><h2 id="最後機會"><a href="#最後機會" class="headerlink" title="最後機會"></a>最後機會</h2><p>此時Nvidia的資金只夠他們9個月，而當時一個新的晶片開發需要兩年的時間。在時間的壓力下，Nvidia不得不嘗試新的做法，他們購入了一台晶片模擬器，同步開發硬體與軟體。這種創新的開發方法讓Nvidia能夠在僅六個月的時間內完成公司的第三個晶片，RIVA128。RIVA128推出後，技術上取得重大突破，商業上也大獲成功，發布四個月內銷量達一百萬個單位。自此，Nvidia確立了在圖形處理器市場的領先地位，並逐步拓展至遊戲以外的其他領域，包括區塊鏈和人工智能。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>科技小故事</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Nvidia</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>從先驅到被超越 - Overture創新的兩難</title>
     <link href="/posts/why-overture-lost-to-google/"/>
     <url>/posts/why-overture-lost-to-google/</url>
